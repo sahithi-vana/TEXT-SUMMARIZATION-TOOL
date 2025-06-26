@@ -56,8 +56,6 @@ These libraries are required for loading and running the pre-trained transform
 pip install -r requirements. txt
 
 
-## Result
+## Output
 
-![Image](https://github.com/user-attachments/assets/c44b1113-9b97-4747-8c8a-cf2197e2f740)
-
-![Image](https://github.com/user-attachments/assets/e31d36ce-8d54-4b28-85b6-728e46a55457)
+![Image](https://github.com/user-attachments/assets/d232e64b-d656-436a-a062-a1594eb9c083)
